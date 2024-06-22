@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a file from local repo
+=======
+a test file
+>>>>>>> ed626828f1d583089a003cd9ef84db98efc82880
