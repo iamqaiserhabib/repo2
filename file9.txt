@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 K8S
-=======
 Docker
->>>>>>> 14dda5aae2a888c06be0fec7027dc705c9bb2642
