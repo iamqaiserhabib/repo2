@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 terraform changes
-=======
 Ansible for CM
->>>>>>> bae7710 (LR ansible)
